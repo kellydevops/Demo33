@@ -1,5 +1,3 @@
 this is my first FILE
 in linux 
 this is git session
-mcbmvbds
-,mvsv 
